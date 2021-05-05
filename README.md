@@ -8,6 +8,7 @@ MethodsRobot.py is as the name implies houses the bulk of the code and the prima
 
 ports.py is a small file containing two dictionaries that assign the port ID of each motor on the robot to a readable and useable name.
 
+----
 
 Please pardon the mess of code. I'm not exactly a shining example of best programming practices. I had a tendency of constantly moving about
 the code, moving, removing, and adding different things as I had ideas. Don't mind the rather strange comments either, I knew I needed to
